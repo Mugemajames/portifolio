@@ -4,11 +4,7 @@ import { motion } from "framer-motion";
  import windows from "../assets/windows.png";
  import redhat from "../assets/redhat.jpg";
  import wazuh from "../assets/wazuh.png";
-// import ReactNative from "../assets/ReactNative.png";
-// import RedHat from "../assets/RedHat.png";
-// import Redux from "../assets/Redux.png";
-// import TailwindCSS from "../assets/Tailwind.png";
-import Kali from "../assets/Kali.png"; // Your Kali OS image
+import Kali from "../assets/kali.png";
 
 const iconVariants = (duration) => ({
   initial: { y: -10 },
