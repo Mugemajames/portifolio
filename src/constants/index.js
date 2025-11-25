@@ -76,21 +76,21 @@ export const PROJECTS = [
     isMobileApp: false,
     isReleased: true,
   },
-  {
-    title: "Docker Deployment - Containerization",
-    image: OrderEasy,
-    description:
-      "Developed a cross-platform online ordering app integrated with the GoFrugal POS system. Built reusable UI components and implemented key features like Offers, Referral Programs, and Analytics to boost user engagement and improve reporting. The app enhanced overall customer experience and provided valuable insights for better decision-making.",
-    technologies: ["React Native", "React Native Web", "Mobx", "Jenkins"],
-    companyUrl: "https://www.gofrugal.com/online-ordering-app/",
-    webUrl: "https://amulgreen.ordereasyapp.com/",
-    androidUrl:
-      "https://play.google.com/store/apps/details?id=com.gofrugal.ordereasy734023&hl=en_IN",
-    iosUrl: "https://apps.apple.com/in/app/amul-green/id1602359988",
-    projectName: "OrderEasy",
-    isMobileApp: true,
-    isReleased: true,
-  },
+  // {
+  //   title: "Docker Deployment - Containerization",
+  //   image: OrderEasy,
+  //   description:
+  //     "Developed a cross-platform online ordering app integrated with the GoFrugal POS system. Built reusable UI components and implemented key features like Offers, Referral Programs, and Analytics to boost user engagement and improve reporting. The app enhanced overall customer experience and provided valuable insights for better decision-making.",
+  //   technologies: ["React Native", "React Native Web", "Mobx", "Jenkins"],
+  //   companyUrl: "https://www.gofrugal.com/online-ordering-app/",
+  //   webUrl: "https://amulgreen.ordereasyapp.com/",
+  //   androidUrl:
+  //     "https://play.google.com/store/apps/details?id=com.gofrugal.ordereasy734023&hl=en_IN",
+  //   iosUrl: "https://apps.apple.com/in/app/amul-green/id1602359988",
+  //   projectName: "OrderEasy",
+  //   isMobileApp: true,
+  //   isReleased: true,
+  // },
 ];
 
 export const CONTACT = {
